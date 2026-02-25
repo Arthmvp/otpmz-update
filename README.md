@@ -1,0 +1,2 @@
+# otpmz-update
+otpmz-updates
