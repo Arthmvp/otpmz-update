@@ -30,19 +30,6 @@ Utiliza algoritmos para detectar automaticamente a arquitetura do seu processado
 - **Responsividade:** Ajustes no registro para tornar a interface e inputs mais ágeis.
 - **Periféricos:** Correção de aceleração do mouse (Mouse Fix 1:1).
 
-## 📥 Instalação
-
-1. Baixe a versão mais recente na aba [Releases](#).
-2. Execute o instalador `Setup.exe`.
-3. O aplicativo solicitará permissões de Administrador para aplicar as otimizações no registro do sistema.
-
-## 🚀 Como Usar
-
-1. **Autenticação:** Faça login com sua conta ou registre sua chave de acesso.
-2. **Dashboard:** Navegue pelas abas laterais para acessar as categorias (Processador, Memória, Windows, etc.).
-3. **Aplicar:** Clique nos botões de ação para aplicar os tweaks. O sistema informará o status de cada otimização.
-4. **Reiniciar:** Para alterações profundas (como registro e serviços), é recomendável reiniciar o computador.
-
 > **Nota:** A versão **Premium (V2)** desbloqueia recursos exclusivos como a IA de detecção de hardware, ajustes profundos de Kernel e suporte prioritário.
 
 ## 💻 Tecnologias
