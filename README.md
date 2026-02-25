@@ -32,14 +32,6 @@ Utiliza algoritmos para detectar automaticamente a arquitetura do seu processado
 
 > **Nota:** A versão **Premium (V2)** desbloqueia recursos exclusivos como a IA de detecção de hardware, ajustes profundos de Kernel e suporte prioritário.
 
-## 💻 Tecnologias
-
-O projeto é construído utilizando tecnologias web modernas empacotadas para desktop, garantindo performance e uma interface fluida.
-
-- **Electron**
-- **Node.js**
-- **HTML5 / CSS3**
-
 ## ⚠️ Aviso Legal
 
 Este software realiza alterações no registro do Windows e configurações de sistema. Embora testado exaustivamente para garantir estabilidade e segurança, o uso é por sua conta e risco.
