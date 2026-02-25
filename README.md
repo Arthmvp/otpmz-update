@@ -76,4 +76,4 @@ Junte-se à nossa comunidade para novidades, suporte e feedback:
 </div>
 
 ---
-Desenvolvido por **Jotah Store**.
+Desenvolvido com ❤️ por [Arthmvp](https://github.com/Arthmvp/).
