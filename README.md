@@ -1,6 +1,6 @@
 # Jotah Store Optimizer 🚀
 
-![Badge Versão](https://img.shields.io/badge/versão-v1.3.1-orange) ![Badge Plataforma](https://img.shields.io/badge/plataforma-Windows-0078D6)
+![Badge Versão](https://img.shields.io/badge/versão-v1.3.2-orange) ![Badge Plataforma](https://img.shields.io/badge/plataforma-Windows-0078D6)
 
 **Jotah Store Optimizer** é uma suíte completa de otimização para Windows, desenvolvida para extrair o máximo de desempenho do seu hardware, focando em estabilidade para jogos competitivos e agilidade para produtividade.
 
