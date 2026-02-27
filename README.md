@@ -2,7 +2,7 @@
 
 ![Badge Versão](https://img.shields.io/badge/versão-v1.3.4-orange) ![Badge Plataforma](https://img.shields.io/badge/plataforma-Windows-0078D6) 
 
-## Suporte: ![Badge Nvidia](https://img.shields.io/badge/GPU's-Nvidia-green) ![Badge Intel](https://img.shields.io/badge/CPU's%20&%20GPU's-Intel-blue) ![Badge AMD](https://img.shields.io/badge/CPU's%20e%20GPU's-AMD-darkred)
+## Suporte: ![Badge Nvidia](https://img.shields.io/badge/GPU's-Nvidia-green) ![Badge Intel](https://img.shields.io/badge/CPU's%20&%20GPU's%20(Integrado)-Intel-blue) ![Badge AMD](https://img.shields.io/badge/CPU's%20e%20GPU's-AMD-darkred)
 
 **Jotah Store Optimizer** é uma suíte completa de otimização para Windows, desenvolvida para extrair o máximo de desempenho do seu hardware, focando em estabilidade para jogos competitivos e agilidade para produtividade.
 
