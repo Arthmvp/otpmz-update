@@ -1,6 +1,6 @@
 # Jotah Store Optimizer 🚀
 
-![Badge Versão](https://img.shields.io/badge/versão-v1.5.3-orange) ![Badge Min Versão](https://img.shields.io/badge/versão%20min-v1.5.2-purple) ![Badge Plataforma](https://img.shields.io/badge/plataforma-Windows-0078D6) 
+![Badge Versão](https://img.shields.io/badge/versão-v1.5.4-orange) ![Badge Min Versão](https://img.shields.io/badge/versão%20min-v1.5.4-purple) ![Badge Plataforma](https://img.shields.io/badge/plataforma-Windows-0078D6) 
 
 ## Suporte: ![Badge Nvidia](https://img.shields.io/badge/GPU's-Nvidia-green) ![Badge Intel](https://img.shields.io/badge/CPU's%20&%20GPU's%20(Integrado)-Intel-blue) ![Badge AMD](https://img.shields.io/badge/CPU's%20e%20GPU's%20(Dedicado%20&%20Integrado)-AMD-darkred)
 
